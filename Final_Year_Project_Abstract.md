@@ -1,7 +1,5 @@
-This project focuses on developing a machine learning-based stock market portfolio optimization tool 
-aimed at helping users maximize returns while minimizing risk.
-By leveraging a deep learning model, such as LSTM, 
-for stock price prediction and integrating public sentiment analysis from news and social media using models like BERT, 
-the tool provides users with dynamic market insights. 
-Additionally, portfolio optimization techniques, such as Modern Portfolio Theory (MPT) and reinforcement learning,
-are applied to suggest the most efficient allocation of assets, allowing users to make informed and calculated investment decisions.
+This project aims to develop a machine learning-based tool for stock market portfolio optimization.
+It leverages LSTM models for accurate stock price prediction based on historical data.
+Public sentiment analysis from news and social media is integrated using models like BERT to provide market insights.
+The tool applies Modern Portfolio Theory (MPT) and reinforcement learning to optimize asset allocation.
+The goal is to help users maximize returns while minimizing risk through data-driven, informed investment decisions.
